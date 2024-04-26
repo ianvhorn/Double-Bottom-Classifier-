@@ -11,5 +11,9 @@ Code files:
 
 MERGE folder: Contains set of stock prices downloaded from Yahoo Finance. These files are merged and annotated to create a dataset.
 
+SPY_TRU: The truths file with augmntation used for training
+
+MODELS: This folder containes a model file, its validation set, and the corrosponding confusion matrix
+
 
 
