@@ -1,4 +1,7 @@
 # Double-Bottom-Classifier-
+FOR A DEMONSTRATION:
+  Download the DEMO file and inside the
+
 This repository contains peripherial code and a convolutional neural network for identifing double bottoms in stock pricing.
 
 Code files:
